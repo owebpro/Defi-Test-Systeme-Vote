@@ -1,0 +1,35 @@
+Arguments: 
+  /home/ghost/.nvm/versions/node/v20.10.0/bin/node /usr/share/yarn/bin/yarn.js add hardhat
+
+PATH: 
+  /home/ghost/.nvm/versions/node/v20.10.0/bin:/home/ghost/anaconda3/bin:/home/ghost/anaconda3/condabin:/home/ghost/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/home/ghost/android-studio/bin:/home/ghost/Android/Sdk/emulator:/home/ghost/Android/Sdk/platform-tools:/snap/bin:/home/ghost/Android/Sdk/emulator:/home/ghost/Android/Sdk/tools:/home/ghost/Android/Sdk/tools/bin:/home/ghost/Android/Sdk/platform-tools:/home/ghost/Android/Sdk/emulator:/home/ghost/Android/Sdk/platform-tools
+
+Yarn version: 
+  1.22.4
+
+Node version: 
+  20.10.0
+
+Platform: 
+  linux x64
+
+Trace: 
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at internalConnectMultiple (node:net:1177:5)
+      at internalConnectMultiple (node:net:1177:5)
+      at internalConnectMultiple (node:net:1177:5)
+      at internalConnectMultiple (node:net:1177:5)
+      at internalConnectMultiple (node:net:1177:5)
+      at internalConnectMultiple (node:net:1177:5)
+      at internalConnectMultiple (node:net:1177:5)
+      at internalConnectMultiple (node:net:1177:5)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
